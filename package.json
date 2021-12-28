@@ -1,0 +1,24 @@
+{
+  "name": "useless-utils",
+  "version": "1.0.0",
+  "description": "Useless utils, Brainless gadgets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyJen/Useless-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyJen/Useless-utils/issues"
+  },
+  "homepage": "https://github.com/xyJen/Useless-utils#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pinyin": "^2.10.2"
+  }
+}
